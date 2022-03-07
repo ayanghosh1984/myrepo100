@@ -1,0 +1,8 @@
+# myrepo100
+this is another example repo
+<<<<<<< HEAD
+code updated by dev 2 - second developer of the project
+=======
+code updated by dev 2
+code further updated by dev 1
+>>>>>>> refs/remotes/origin/master
